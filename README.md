@@ -13,6 +13,7 @@ Kita menggunakan perintah <b>docker-compose build app</b> untuk menjalankan semu
 ## Jalankan Environment dibelakang layar
 
 Agar Container berjalan dibelakang layar kita gunakan perintah <b>docker-compose up -d</b>
+
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/2.png"/>
 
 ## Melihat Service yang sedang berjalan
