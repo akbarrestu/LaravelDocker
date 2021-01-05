@@ -55,11 +55,14 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yait
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/7.png"/>
 
 
-
+## tampilan muka
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/8.png"/>
 
+## create data
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/9.png"/>
 
+## edit data
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/12.png"/>
 
+## tampil data
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/13.png"/>
