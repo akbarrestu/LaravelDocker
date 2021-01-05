@@ -9,4 +9,4 @@ Kita mempunyai 3 images didalam file <b>docker-compose.yml</b> yaitu :
 - nginx:alpine (Webserver)
 
 Kita menggunakan perintah <b>docker-compose build app</b> untuk menjalankan semua image atau container secara bersamaan.
-<img src=""/>
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/1.png"/>
