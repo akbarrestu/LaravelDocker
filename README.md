@@ -60,6 +60,6 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yait
 
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/9.png"/>
 
-<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/10.png"/>
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/12.png"/>
 
-<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/11.png"/>
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/13.png"/>
