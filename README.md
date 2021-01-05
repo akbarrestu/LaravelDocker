@@ -66,3 +66,13 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yait
 
 ## tampil data
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/13.png"/>
+
+## push docker hub
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/14.png"/>
+
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/15.png"/>
+
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/16.png"/>
+
+
+
