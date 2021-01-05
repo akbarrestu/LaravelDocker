@@ -53,3 +53,13 @@ Pada Laravel, Key di generated untuk enkripsi session pengguna dan data sensitif
 
 Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yaitu localhost:5000
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/7.png"/>
+
+
+
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/8.png"/>
+
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/9.png"/>
+
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/10.png"/>
+
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/11.png"/>
