@@ -1,9 +1,9 @@
 # LaravelDocker
-saya akan  membuild aplikasi web <i>Laravel</i> dengan menggunakandatabase dan webserver yang akan dijalankan melalui <i>Docker</i> 
+Saya membangun aplikasi web <i>Laravel</i> dengan menggunakandatabase dan webserver yang akan dijalankan melalui <i>Docker</i> 
 
 ## Build app
 
-Kita mempunyai 3 images didalam file <b>docker-compose.yml</b> yaitu :
+Saya mempunyai 3 images didalam file <b>docker-compose.yml</b> yaitu :
 - app (Aplikasi)
 - mysql:5.7 (Database)
 - nginx:alpine (Webserver)
