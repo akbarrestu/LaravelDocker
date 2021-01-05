@@ -77,5 +77,9 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yait
 ## tampilan pada repository docker
 <img src="https://github.com/akbarrestu/LaravelDocker/blob/master/17.png"/>
 
+## Tampilan pull di kata koda
+<img src="https://github.com/akbarrestu/LaravelDocker/blob/master/18.png"/>
+
+
 
 
